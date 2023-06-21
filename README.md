@@ -6,7 +6,7 @@
 > 
 > 以斗争求团结则团结存，以妥协求团结则团结亡。——教员
 
-* [在线阅读](https://educba.apachecn.org)
+* [在线阅读](https://educba.flygon.net)
 ## 下载
 
 ### Docker
